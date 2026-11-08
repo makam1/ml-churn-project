@@ -4,3 +4,9 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .pytest_cache/
+logs/*.log
+results/
+*.deb
+*.tgz
+apache-jmeter-*/
+logs/*.log
